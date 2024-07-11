@@ -1,0 +1,56 @@
+.surveybox{
+    align-items: center;
+    margin: 20px auto;
+    justify-content: center;
+    background-color: beige;
+    width: 900px;
+    padding: 20px;
+}
+.h1{
+    padding: 10px 40px;
+    margin-left: 20px ;
+}
+.col-6{
+    width: 400px;
+    align-items: flex-start;
+    padding: 20px;
+}
+.col-6 label, .col-12 label{
+    margin: 10px 10px;
+    color: black;
+}
+.col-6 form input{
+    width: 400px;
+    padding: 0px 20px;
+    margin: 10px;
+}
+.col-12 form input{
+    width: 850px;
+    margin: 10px;
+}
+.ques p{
+    margin: 10px;
+    margin-top: 20px;
+}
+
+span img{
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+input[type="checkbox"]{
+    width: 10px;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px;
+}
+.buttons button{
+    display: flex;
+    margin: 20px auto;
+    width: 800px;
+    padding: 10px 5px;
+    background-color: rgb(215, 124, 59);
+    border-radius: 20px;
+    color: whitesmoke;
+}
+button{
+}
