@@ -46,11 +46,10 @@ input[type="checkbox"]{
 .buttons button{
     display: flex;
     margin: 20px auto;
-    width: 800px;
+/*     width: 800px; */
     padding: 10px 5px;
     background-color: rgb(215, 124, 59);
     border-radius: 20px;
     color: whitesmoke;
-}
-button{
+    text-align: center;
 }
